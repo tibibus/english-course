@@ -1,4 +1,6 @@
-
+*{
+    font-family: 'Jost';
+}
 
 .frame3{
     background-color: #F0C0DA;
@@ -29,7 +31,6 @@
     height: 69px;
     right: 1100px;
     top: 33px;
-    font-family: 'Jost';
     font-style: normal;
     font-weight: 500;
     font-size: 24px;
@@ -57,7 +58,6 @@
     height: 115px;
     left: 188px;
     top: 122px;
-    font-family: 'Jost';
     font-style: normal;
     font-weight: 700;
     font-size: 40px;
@@ -74,7 +74,6 @@
     height: 144px;
     left: 188px;
     top: 300px;
-    font-family: 'Jost';
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
@@ -89,7 +88,6 @@
     height: 633px;
     left: 188px;
     top: 532px;
-    font-family: 'Jost';
     font-style: normal;
     font-weight: 400;
     font-size: 19px;
@@ -106,7 +104,6 @@
     height: 82px;
     left: 188px;
     top: 1000px;
-    font-family: 'Georama';
     font-style: normal;
     font-weight: 700;
     font-size: 64px;
@@ -122,7 +119,6 @@ width: 154px;
 height: 33px;
 left: 205px;
 top: 1100px;
-font-family: 'Judson';
 font-style: normal;
 font-weight: 700;
 font-size: 32px;
@@ -151,7 +147,6 @@ width: 158px;
 height: 46px;
 left: 45px;
 top: -15px;
-font-family: 'Jost';
 font-style: normal;
 font-weight: 400;
 font-size: 32px;
@@ -166,7 +161,7 @@ color: #000000;
     width: auto;
 }
 
-.img_blue{
+.img_green{
     float: left;
     height: 700px;
     width: 550px;
@@ -180,4 +175,220 @@ color: #000000;
     background-color: white;
     float: right;
     margin-right: 75px;
+}
+
+.p6{
+    /* 9 ТИЖНІВ, 36/18 ЗАНЯТЬ СТАРТ: 12-17.05 | 9-14.06  */
+    position: absolute;
+    width: 345px;
+    height: 105px;
+    left: 1400px;
+    top: 1294px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: right;
+    color: #37BCA6;
+}
+
+.line2{
+    /* Rectangle 13 */
+
+    position: absolute;
+    width: 644px;
+    height: 2px;
+    left: 1130px;
+    top: 1749px;
+    background: #32BAA0;
+}
+
+.p7{
+    /* ДИСТАНЦІЙНИЙ КУРС ІНТЕНСИВ */
+
+    position: absolute;
+    width: 474px;
+    height: 129px;
+    left: 1130px;
+    top: 1399px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 58px;
+    letter-spacing: 0.22em;
+    color: #000000;
+}
+
+.p8{
+    /* У БУДНІ 4 зан/ тижд. 1 год 50 хв | Пн - Чт 8:10 | 10:10 | 12:10 | 16:10 | 18:10 | 20:10 або У ВИХІДНІ 2 зан. / тижд. * 3 год 40 хв Сб-Нд на 11:00 1 рівень = 1 курс */
+
+    position: absolute;
+    width: 566px;
+    height: 239px;
+    left: 1130px;
+    top: 1580px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    color: #000000;
+}
+
+.p9{
+    /* 1 ДИСТАНЦІЙНО: онлайн курс англійської можна пройти з будь-якої точки світу 2 ЕФЕКТИВНО: цілий рівень за 9 тижнів навчання в групах в атмосфері реального заняття у класі 3 ВИГІДНО: 138 грн за 1 год навчання 4 ТЕХНОЛОГІЧНО: навчання в групах за програмою власного інтерактивного підручника Notes на платформі Smarte, відпрацювання лексики і граматики в Smarte+ 5 ЗРУЧНО: керування навчанням у додатку My Green Forest: домашні завдання, успішність, тести, зміна графіку, запис на клуби, підручник, сертифікат, бонуси і оплата 6 ПРОФЕСІЙНО: більше 200 сучасних викладачів, які регулярно прокачують свою експертність в Green Forest Teaching Centre by Nadia Diachuk 7.БЕЗКОШТОВНІ БОНУСИ: доступ до підручника Notes i онлайн-тренажера Smarte+, 40 год занять для самостійного навчання, розмовні клуби з носіями мови щотижня */
+
+    position: absolute;
+    width: 635px;
+    height: 675px;
+    left: 1130px;
+    top: 1780px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    color: #000000;
+}
+
+.price2{
+    /* 10500 */
+
+    position: absolute;
+    width: 239px;
+    height: 82px;
+    left: 1194px;
+    top: 2300px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 76px;
+    color: #000000;
+
+}
+
+.value2{
+    /* грн/курс */
+
+    position: absolute;
+    width: 154px;
+    height: 33px;
+    left: 1213px;
+    top: 2400px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+    color: #000000;
+}
+
+.button2{
+    /* Rectangle 6 */
+    position: absolute;
+    width: 237px;
+    height: 85px;
+    left: 1500px;
+    top: 2380px;
+    background: #1CB65A;
+    border-radius: 40px;
+}
+
+.p10{
+    /* Записатись */
+
+    position: absolute;
+    width: 158px;
+    height: 46px;
+    left: 46px;
+    top: -13px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 46px;
+    color: #000000;
+
+}
+
+.frame5{
+    background-color: #2377D9;
+    margin: 0 auto;
+    height: 1270px;
+    width: auto;
+}
+
+.img_blue{
+    float: right;
+    height: 750px;
+    width: 550px;
+    margin-top: 450px;
+    margin-right: 250px;
+}
+
+.div_white3{
+    height: 1270px;
+    width: 742px;
+    background-color: white;
+    float: left;
+    margin-left: 75px;
+}
+
+.line3{
+    width: 570px;
+    height: 2px;
+    top: -24px;
+    background: #32BAA0;
+    display:block;
+    margin: 0 auto;
+}
+
+.p11{
+    position: absolute;
+    width: 273px;
+    height: 69px;
+    right: 1100px;
+    top: 33px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: right;
+    color: #32BAA0;
+}
+
+.p12{
+
+}
+
+.p13{
+
+}
+
+.p14{
+
+}
+
+.line_decl{
+
+}
+
+.old_price{
+
+}
+
+.old_value{
+
+}
+
+.price3{
+
+}
+
+.value3{
+
+}
+
+.button3{
+
+}
+
+.p15{
+
 }
