@@ -1,0 +1,74 @@
+*{
+    font-family:'Jost';
+}
+header{
+    display:flex;
+    justify-content: space-between;
+}
+#header_div{
+    display:flex;
+    flex-wrap:nowrap;
+}
+#frame1_bg{
+    position: absolute;
+    width:100%;
+    top: 58%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+}
+#frame1_content{
+    display:flex;
+    justify-self:left;
+    align-self: center;
+    justify-content:center;
+    flex-direction:column;
+    margin-top: 27%;
+    text-align:center;
+}
+#frame1_txt1{
+    font-size:40px;
+    font-weight:bold;
+}
+#frame1_txt2{
+    font-size:24px;
+}
+#frame1_btn{
+    position: absolute;
+    width: 250px;
+    height: 77px;
+    left:230px;
+    top:810px;
+    background: #FFFFFF;
+    border-radius: 38.5px;
+    font-size:40px;
+}
+#btn_txt{
+    position: absolute;
+    left:28px;
+    top:-32px;
+}
+#frame1_phone{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 94%;
+    top: 75%;
+    border-radius:100%;
+    background: #1CB65A;
+}
+#frame1_chat{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 94%;
+    top: 94%;
+    border-radius:100%;
+    background: #1CB65A;
+}
