@@ -8,6 +8,10 @@ header{
 #header_div{
     display:flex;
     flex-wrap:nowrap;
+    width:0 auto;
+    gap:10px;
+    text-decoration:none;
+    margin-right:30px 
 }
 #frame1_bg{
     position: absolute;
@@ -96,7 +100,7 @@ header{
     width: 173px;
     height: 739px;
     left: 90.9%;
-    top: 977px;
+    top: 2056px;
     background: #EF706D;
 }
 #frame2_p1{
@@ -104,7 +108,7 @@ header{
     width: 1057px;
     height: 243px;
     left: 10%;
-    top:1000px;
+    top:2086px;
     font-family: 'Jost';
     font-style: normal;
     font-weight: 400;
@@ -116,7 +120,7 @@ header{
     width: 961px;
     height: 296px;
     left: 10%;
-    top: 1200px;
+    top: 2256px;
     font-family: 'Jost';
     font-style: normal;
     font-weight: 700;
@@ -128,11 +132,87 @@ header{
     width: 756px;
     height: 92px;
     left: 9.5%;
-    top: 1550px;
+    top: 2580px;
     font-family: 'Jost';
     font-style: normal;
     font-weight: 800;
     font-size: 32px;
     line-height: 46px;
     color: #32BAA0;
+}
+#right_png{
+    position: absolute;
+    width: 821.33px;
+    height: 1079px;
+    left: 1084px;
+    top: 985px;
+}
+#top_left_corner{
+    position: absolute;
+    width: 571px;
+    height: 371px;
+    left: -26px;
+    top: 985px;
+}
+#bottom_left_corner{
+    position: absolute;
+    width: 599px;
+    height: 520px;
+    left: -26px;
+    top: 1545px;
+}
+#paper_airplane{
+    position: absolute;
+    width: 197px;
+    height: 197px;
+    left: 70px;
+    top: 1430px;
+}
+#frame15_p1{
+    position: absolute;
+    width: 910px;
+    height: 299px;
+    left: 279px;
+    top: 1107px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 139px;
+    color: #EF706D;
+}
+#frame15_p2{
+    position: absolute;
+    width: 879px;
+    height: 108px;
+    left: 279px;
+    top: 1441px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 69px;
+    color: #1CB65A;
+}
+#frame15_btn{
+    position: absolute;
+    width: 358px;
+    height: 120px;
+    left: 628px;
+    top: 1842px;
+    background: #009266;
+    border-radius: 40px;
+}
+#frame15_btn_txt{
+    position: absolute;
+    width: 234px;
+    height: 69px;
+    left: 65px;
+    top: -20px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 69px;
+    color: #ffffff;
 }
