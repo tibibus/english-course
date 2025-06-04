@@ -43,9 +43,9 @@
 /* Rectangle 12 */
 
     position: absolute;
-    width: 570px;
+    width: 618px;
     height: 2px;
-    left: 188px;
+    left: 143px;
     top: 489px;
     background: #32BAA0;
 
@@ -142,16 +142,16 @@ color: #000000;
 .p5{
     /* Записатись */
 
-position: absolute;
-width: 158px;
-height: 46px;
-left: 45px;
-top: -15px;
-font-style: normal;
-font-weight: 400;
-font-size: 32px;
-line-height: 46px;
-color: #000000;
+    position: absolute;
+    width: 158px;
+    height: 46px;
+    left: 45px;
+    top: -15px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 46px;
+    color: #000000;
 }
 
 .frame4{
@@ -331,12 +331,15 @@ color: #000000;
 }
 
 .line3{
-    width: 570px;
+/* Rectangle 13 */
+
+    position: absolute;
+    width: 618px;
     height: 2px;
-    top: -24px;
+    left: 143px;
+    top: 3030px;
     background: #32BAA0;
-    display:block;
-    margin: 0 auto;
+
 }
 
 .p11{
@@ -344,7 +347,7 @@ color: #000000;
     width: 273px;
     height: 69px;
     right: 1100px;
-    top: 33px;
+    top: 2613px;
     font-style: normal;
     font-weight: 500;
     font-size: 24px;
@@ -354,41 +357,201 @@ color: #000000;
 }
 
 .p12{
-
+    position: absolute;
+    width: 474px;
+    height: 115px;
+    left: 188px;
+    top: 2722px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 58px;
+    letter-spacing: 0.22em;
+    color: #000000;
 }
 
 .p13{
-
+    position: absolute;
+    width: 566px;
+    height: 144px;
+    left: 188px;
+    top: 2900px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #000000;
 }
 
 .p14{
-
+    
+    position: absolute;
+    width: 588px;
+    height: 633px;
+    left: 188px;
+    top: 3072px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 140%;
+    color: #000000;
 }
 
 .line_decl{
+    /* Rectangle 7 */
 
+    position: absolute;
+    width: 125px;
+    height: 4px;
+    left: 167px;
+    top: 3683px;
+    background: #B4B4B4;
+    transform: rotate(-22.3deg);
 }
 
 .old_price{
-
+    /* 6500 */
+    position: absolute;
+    width: 198px;
+    height: 58px;
+    left: 187px;
+    top: 3623px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #B4B4B4;
 }
 
 .old_value{
+    /* грн/курс */
 
+    position: absolute;
+    width: 125px;
+    height: 18px;
+    left: 180px;
+    top: 3684px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #B4B4B4;
 }
 
 .price3{
+    /* 5950 */
+
+    position: absolute;
+    width: 184px;
+    height: 81px;
+    left: 336px;
+    top: 3582px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 76px;
+    color: #FF0000;
 
 }
 
 .value3{
-
+/* грн/курс */
+    position: absolute;
+    width: 152px;
+    height: 37px;
+    left: 336px;
+    top: 3682px;
+    font-family: 'Judson';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+    color: #FF0000;
 }
 
 .button3{
-
+    position: absolute;
+    width: 237px;
+    height: 85px;
+    left: 530px;
+    top: 3662px;
+    background: #1CB65A;
+    border-radius: 40px;
 }
 
 .p15{
+    position: absolute;
+    width: 158px;
+    height: 46px;
+    left: 45px;
+    top: -15px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 46px;
+    color: #000000;
+}
+
+.frame6{
+        background-color: #FFE376;
+        margin: 0 auto;
+        height: 1270px;
+        width: auto;
+}
+
+.img_yellow{
+    float: left;
+    height: 700px;
+    width: 650px;
+    margin-top: 350px;
+    margin-left: 250px;
+}
+
+.div_white4{
+    height: 1270px;
+    width: 742px;
+    background-color: white;
+    float: right;
+    margin-right: 75px;
+}
+
+.line4{
+    position: absolute;
+    width: 644px;
+    height: 2px;
+    left: 1130px;
+    top: 4249px;
+    background: #32BAA0;
+}
+
+.p16{
+
+}
+
+.p17{
+
+}
+
+.p18{
+
+}
+
+.p19{
+
+}
+
+.price4{
+
+}
+
+.value4{
+
+}
+
+.button4{
+
+}
+
+.p20{
 
 }
