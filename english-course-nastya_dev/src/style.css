@@ -519,39 +519,131 @@ color: #000000;
     position: absolute;
     width: 644px;
     height: 2px;
-    left: 1130px;
-    top: 4249px;
+    right: 133px;
+    top: 4292px;
     background: #32BAA0;
 }
 
 .p16{
+    /* 8 ТИЖНІВ, 32 ЗАНЯТТЯ СТАРТ: 12,05 | 9.06 */
 
+    position: absolute;
+    width: 273px;
+    height: 69px;
+    right: 114px;
+    top: 3886px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: right;
+    color: #32BAA0;
 }
 
 .p17{
+/* ДИСТАНЦІЙНИЙ КУРС IELTS */
 
+    position: absolute;
+    width: 474px;
+    height: 115px;
+    left: 1166px;
+    top: 3989px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 58px;
+    letter-spacing: 0.22em;
+    color: #000000;
 }
 
 .p18{
+/* 4 зан/ тижд. 1 ГОД 50 хв Графік: Пн - Чт на 9:10 | 18:20 Для рівнів Upper-Intermediate (B2) і вище */
 
+    position: absolute;
+    width: 566px;
+    height: 144px;
+    left: 1166px;
+    top: 4158px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #000000;
 }
 
 .p19{
+    /* ДИСТАНЦІЙНО: онлайн курс англійської можна пройти з будь-якої точки світу ШВИДКО: повний курс підготовки всього за 8 тижнів ЕФЕКТИВНО: 32 заняття на платформі Smarte зі спеціалізованою підготовкою до всіх 4-х частин іспиту IELTS: Listening, Reading, Writing and Speaking ЗРУЧНО: керування нанням у додатку My Green Forest домашні завдання, успішність, тести, анна графіку, запис на клуби, підручник, сертифікат, бонуси і оплата ПРОФЕСІЙНО: більше 200 сучасних викладачів, які регулярно прокачують свою експертність в Green Forest Teaching Centre by Nadia Diachuk БЕЗКОШТОВНІ БОНУСИ: доступ до підручника Notes і онлайн тренажера Smarte+, додаткові уроки для самостійного навчання, розмовні клуби з носіями мови щотижня */
 
-}
+    position: absolute;
+    width: 588px;
+    height: 633px;
+    left: 1166px;
+    top: 4375px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 140%;
+    color: #000000;
+    }
 
 .price4{
+/* 10500 */
 
+    position: absolute;
+    width: 239px;
+    height: 76px;
+    left: 1166px;
+    top: 4851px;
+    font-family: 'Georama';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 76px;
+    color: #000000;
 }
 
 .value4{
+/* грн/курс */
 
+    position: absolute;
+    width: 154px;
+    height: 33px;
+    left: 1186px;
+    top: 4951px;
+    font-family: 'Judson';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+    color: #000000;
 }
 
 .button4{
-
+    position: absolute;
+    width: 237px;
+    height: 85px;
+    left: 1500px;
+    top: 4940px;
+    background: #1CB65A;
+    border-radius: 40px;
 }
 
 .p20{
+/* Записатись */
 
+    position: absolute;
+    width: 158px;
+    height: 116px;
+    left: 40px;
+    top: -10px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 46px;
+    color: #000000;
 }
