@@ -647,3 +647,121 @@ color: #000000;
     line-height: 46px;
     color: #000000;
 }
+
+.frame7{
+    background-color: #38BA9A;
+    height: 700px;
+    width: auto;
+    margin: 0 auto;
+}
+
+.img_15{
+    float: right;
+    padding-top: 100px;
+    padding-right: 100px;
+}
+
+
+.p21{
+    /* MY GREEN FOREST КОНТРОЛЬ ЗА НАВЧАННЯМ ЛЕГКО І ЗРУЧНО */
+    position: absolute;
+    width: 432px;
+    height: 144px;
+    left: 211px;
+    top: 5304px;
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 45px;
+    line-height: 49px;
+    color: #FFFFFF;
+}
+
+.p22{
+    position: absolute;
+    width: 432px;
+    height: 144px;
+    left: 211px;
+    top: 5440px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 49px;
+    color: #000000;
+}
+
+.frame8{
+    background-color: #F6F6F6;
+    height: 700px;
+    width: auto;
+    margin: 0 auto;
+}
+
+.p23{
+    /* NOTES BY GREEN FOREST УНІКАЛЬНА ІНТЕРАКТИВНА ΠΛΑΤΦΟΡМА ДЛЯ ВИВЧЕННЯ АНГЛІЙСЬКОЇ МОВИ */
+
+    position: absolute;
+    width: 476px;
+    height: 140px;
+    left: 1250px;
+    top: 5975px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 35px;
+    color: #4CAF96;
+}
+
+.p24{
+    position: absolute;
+    width: 476px;
+    height: 140px;
+    left: 1250px;
+    top: 6020px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    color: #000000;
+}
+
+.img_10{
+/* image 10 */
+
+    position: absolute;
+    width: 854px;
+    height: 652px;
+    left: 0px;
+    top: 5800px;
+
+}
+
+iframe{
+    float: right;
+}
+
+.frame9{
+    /* Frame 9 */
+    position: relative;
+    width: 0 auto;
+    height: 696px;
+    background: #EF706D;
+}
+
+.p25{
+    /* Велика школаВеликі можливості */
+
+    position: absolute;
+    width: 567px;
+    height: 160px;
+    left: 100px;
+    top: 278px;
+    font-family: 'Judson';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    color: #FFFFFF;
+}
