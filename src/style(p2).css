@@ -1,6 +1,9 @@
 *{
     font-family:'Jost';
 }
+body {
+    overflow: hidden;
+}
 #img7{
     position: absolute;
     width: 637.31px;
@@ -38,12 +41,12 @@
     line-height: 92px;
     color: #FFFFFF;
 }
-#question{
+.question{
     position: absolute;
     width: 1339px;
     height: 293px;
     left: 141px;
-    top: 250px;
+    top: 341px;
     font-family: 'Jost';
     font-style: normal;
     font-weight: 700;
@@ -51,10 +54,20 @@
     line-height: 92px;
     color: #000000;
 }
-#answers{
-    position: absolute;
-    top:350px;
-    border-radius: 8px;
-    border: 1px solid #ccc;
+.answers{
+    display:flex;
+    justify-content: center;
+    gap:10px;
+    position:absolute;
+    left: 120px;
+    top:380px;
+}
+.answers:hover{
     cursor: pointer;
+}
+.answers div{
+    font-size: 40px;
+    font-weight: bold;
+    padding:20px;
+    padding-top:150px;
 }
