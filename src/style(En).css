@@ -1,7 +1,6 @@
 *{
     font-family:'Jost';
 }
-
 header{
     display:flex;
     justify-content: space-between;
@@ -44,7 +43,7 @@ header{
 }
 #frame1_txt2{
     position: absolute;
-    width: 400px;
+    width: 500px;
     height: 113px;
     left: 114px;
     top: 423px;
@@ -65,7 +64,7 @@ header{
 }
 #btn_txt{
     position: absolute;
-    left:28px;
+    left:55px;
     top:-32px;
 }
 #frame1_phone{
@@ -197,16 +196,16 @@ header{
 }
 #frame15_btn{
     position: absolute;
-    width: 358px;
+    width: 500px;
     height: 120px;
-    left: 628px;
-    top: 1842px;
+    left: 428px;
+    top: 1792px;
     background: #009266;
     border-radius: 40px;
 }
 #frame15_btn_txt{
     position: absolute;
-    width: 234px;
+    width: 460px;
     height: 69px;
     left: 65px;
     top: -20px;
@@ -404,7 +403,7 @@ header{
 .p2{
     /* ДИСТАНЦІЙНИЙ КУРС СТАНДАРТ */
     position: absolute;
-    width: 474px;
+    width: 600px;
     height: 115px;
     left: 188px;
     top: 2900px;
@@ -563,7 +562,7 @@ header{
     /* ДИСТАНЦІЙНИЙ КУРС ІНТЕНСИВ */
 
     position: absolute;
-    width: 474px;
+    width: 600px;
     height: 129px;
     left: 1130px;
     top: 4150px;
@@ -719,7 +718,7 @@ header{
 
 .p12{
     position: absolute;
-    width: 474px;
+    width: 600px;
     height: 115px;
     left: 188px;
     top: 5413px;
@@ -911,7 +910,7 @@ header{
 /* ДИСТАНЦІЙНИЙ КУРС IELTS */
 
     position: absolute;
-    width: 474px;
+    width: 600px;
     height: 115px;
     left: 1166px;
     top: 6700px;
